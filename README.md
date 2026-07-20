@@ -152,6 +152,14 @@ Cybersecurity Portfolio
 
 ---
 
+## Repository Link
+
+ https://github.com/ethical-hacking
+
+ https://github.com/soc-analyst
+ 
+---
+
 ## Contact
 
 GitHub: https://github.com/ibelalansari
